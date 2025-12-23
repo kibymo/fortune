@@ -1,0 +1,21 @@
+{
+    "name": "Digital Fortune Teller",
+    "short_name": "Fortune Teller",
+    "description": "Unlock your destiny with the Digital Fortune Teller.",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#050614",
+    "theme_color": "#050614",
+    "icons": [
+        {
+            "src": "icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
