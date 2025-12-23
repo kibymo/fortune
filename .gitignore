@@ -1,0 +1,10 @@
+node_modules/
+android/
+ios/
+android-sdk/
+jdk-21.0.5+11/
+lib/
+captcha/
+fortune_teller.apk
+*.log
+.DS_Store
